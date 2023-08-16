@@ -1,0 +1,43 @@
+Sample Input Data:
+   1. The pressure element shall be bourdon, diaphragm, or bellows depending upon process
+       condition. Generally, for positive pressure bourdon type gauge is the first choice.
+   2. The pressure gauge dial shall be white with black figures & dial size of 150 mm. The dial shall be
+       marked with pressure element material. The connection shall be 1/2″ NPTM bottom. The
+       normal Operating Pressure range on the dial shall be of Green color.
+   3. Pressure gauges shall have an accuracy of ±1% of Full scale.
+   4. The pressure gauge shall be with external zero adjustment features.
+   5. Pressure gauge sensing material shall be minimum SS316 & case material shall be a minimum
+       SS304 & with a bayonet bezel ring. Glass/window shall be shatterproof. Pointer material shall be
+       minimum Aluminum.
+   6. Ranges for instruments shall be selected such that in normal process operation, the indication is
+       in between 30% to 70% of the calibration range.
+   7. The pressure gauge shall have over-range protection of 130% of max. Operating pressure and
+       shall have blowout disc.
+   8. Pressure gauges with a range of more than 60 kg/cm2g shall have a solid front case.
+   9. Remote surface mounting pressure gauges shall be considered for services of higher operating
+       temperature than 100°C or pump discharge application.
+   10. Instruments that can be exposed to a vacuum shall have under-range protection.
+   11. Diaphragm seal element with capillary shall be used for toxic, congealing, corrosive, and highly
+       viscous services. Diaphragm/flange material shall be as per process requirement, but SS316 is to
+       be considered as a minimum. Minimum flange rating 300# & Flange size 2” for direct vessel
+       mount diaphragm seal type.
+   12. Where vibrations and pressure fluctuations are expected then glycerin-filled type or snubber
+       shall be used.
+   13. A gauge designed to indicate oxygen pressure shall comply with cleanliness level IV. The dial
+       shall clearly indicate “USE NO OIL” in red color.
+   14. Pressure gauge in ammonia service, materials such as copper, brass, and silver brazing alloys
+       should not be used.
+   15. All instruments in sour service shall meet NACE MR 0103 requirement wherever required as per
+       piping material specification.
+   16. Radiography, IBR testing, NACE, Post Weld Heat Treatment, and Stress relieving requirements
+       shall be considered as per piping material specification.
+   17. Mounting accessories as required for pressure gauge shall be of Stainless Steel.
+
+
+
+
+       Please note that above is input test data. Sentence formations will change each time.
+       The objective is to train a robust NLP model to understand text data like above and to
+       extract necessary information in output excel. Please refer attached desired sample
+       output excel.
+
